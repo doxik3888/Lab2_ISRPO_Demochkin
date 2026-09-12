@@ -1,0 +1,21 @@
+git version - Посмотреть версию гит баш
+git config --global user.name "ваш_ник"
+git config --global user.email "ваша_почта@yandex.ru" - вход в гит хаб
+
+cd - передвижение в папке
+mkdir - создание папки
+
+git init -b main - Команда git init создаёт новый локальный Git-репозиторий.
+ Параметр -b main указывает имя основной ветки.
+
+git remote add origin ссылка_на_репозиторий - привязка удалёного репозитория к локальному
+
+git remote -v - проверка подключения репозитория
+
+dotnet new console -o Program --use-program-main - создание консольного приложения .NET
+
+git status - где чтото изменили
+
+git add . 
+git commit -m "*" -создание комита
+git push 
